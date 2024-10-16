@@ -1,0 +1,13 @@
+[project]
+name = "ml701-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "airllm>=2.11.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.9.2",
+    "numpy>=2.1.2",
+    "scikit-learn>=1.5.2",
+]
